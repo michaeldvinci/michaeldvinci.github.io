@@ -1,9 +1,10 @@
-Package: io.github.nchugget.sleeknbouncy10_1.0-1+debug_iphoneos-arm
+Package: io.github.nchugget.sleeknbouncy10
 Version: 1.0-1+debug
 Architecture: iphoneos-arm
 Maintainer: coned_miro <michaeldvinci@gmail.com>
+Installed-Size: 113
 Depends: mobilesubstrate
-Filename: debs//io.github.nchugget.sleeknbouncy10_1.0-1+debug_iphoneos-arm.deb
+Filename: debs//sleeknbouncy.deb
 Size: 122880
 MD5sum: 3EB932821C93380C781DA6D8CC5E9544
 SHA1: 255EF9B78FC12F4054473E23B003809A32D48D04
