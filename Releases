@@ -1,0 +1,9 @@
+Origin: coned_miro's Repo
+Label: coned_miro's Repo
+Suite: stable
+Version: 1.0
+Codename: tuxedo
+Architecture: iphoneos-arm
+Components: main
+Description: coned_miro's Repo
+MD5Sum: 
