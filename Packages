@@ -1,15 +1,15 @@
-Package: <package>
-Version: <version>
+Package: SleekNBouncy10
+Version: 1.0-1+debug
 Architecture: iphoneos-arm
 Maintainer: coned_miro <michaeldvinci@gmail.com>
 Depends: <bundleids>
-Filename: debs//<deb>
-Size: <deb in bytes>
+Filename: debs//io.github.nchugget.sleeknbouncy10_1.0-1+debug_iphoneos-arm.deb
+Size: 122880
 MD5sum: <md5 hash of deb>
 SHA1: <sha1 hash of deb>
 SHA256: <sha256 of deb>
-Section: <section on your repo>
-Description: <description>
-Author: Yourname <email (put in <>)>
+Section: Utilities
+Description: Check it
+Author: coned_miro <michaeldvinci@gmail.com>
 Depiction: http://decimation.github.io/Depic/<depicfoldername>/index.html
 Name: Tweakname
